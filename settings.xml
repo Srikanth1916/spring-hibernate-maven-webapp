@@ -1,12 +1,12 @@
 <settings>
 <servers>
     <server>
-      <id>releases</id>
+      <id>releaserepo</id>
       <username>admin</username>
       <password>admin123</password>
       </server>
     <server>
-    <id>snapshots</id>
+    <id>snapshotrepo</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
