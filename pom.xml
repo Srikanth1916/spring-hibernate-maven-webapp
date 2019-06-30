@@ -155,7 +155,7 @@
         <Releases>
             <id>releases</id>
             <url>http://3.88.19.95:8081/nexus/content/repositories/releases</url>
-        </Releasesy>
+        </Releases>
 	<Snapshots>
             <id>snapshots</id>
             <url>http://3.88.19.95:8081/nexus/content/repositories/snapshots</url>
