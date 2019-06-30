@@ -4,7 +4,9 @@
       <id>releases</id>
       <username>admin</username>
       <password>admin123</password>
-        <id>snapshots</id>
+      </server>
+    <server>
+    <id>snapshots</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
