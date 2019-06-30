@@ -156,10 +156,6 @@
             <id>releaserepo</id>
             <url>http://3.88.19.95:8081/nexus/content/repositories/releaserepo</url>
            </repository>
-#	<snapshotrepo>
-#            <id>snapshotrepo</id>
-#            <url>http://3.88.19.95:8081/nexus/content/repositories/snapshotrepo</url>
-#        </snapshotrepo>
     	</distributionManagement>
 </project>
 
