@@ -152,10 +152,14 @@
             </plugins>
 	</build>
 	<distributionManagement>
-        <repository>
+        <Release repository>
             <id>releases</id>
-            <url>http://3.88.19.95:8081/nexus/content/repositories/releases/</url>
-        </repository>
+            <url>http://3.88.19.95:8081/nexus/content/repositories/releases</url>
+        </Release repository>
+	<Snapshot repository>
+            <id>snapshots</id>
+            <url>http://3.88.19.95:8081/nexus/content/repositories/snapshots</url>
+        </Snapshot repository>
     	</distributionManagement>
 </project>
 
